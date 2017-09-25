@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SupercloneTheoryCore/MultioperationUnary.cs">
+    <Files>
+      <File FileName="SupercloneTheoryCore/Multioperation.cs" Line="6" Column="18" />
+      <File FileName="SupercloneTheoryCore/Superclone.cs" Line="28" Column="3" />
+      <File FileName="SupercloneTheoryCore/AlgebraOfMultioperations.cs" Line="12" Column="28" />
+      <File FileName="SupercloneTheoryCore/AlgebraOfUnaryMultioperations.cs" Line="69" Column="3" />
+      <File FileName="SupercloneTheoryCore/MultioperationUnary.cs" Line="17" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
