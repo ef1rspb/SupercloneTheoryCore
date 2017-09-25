@@ -1,5 +1,0 @@
-/Users/test/Projects/SupercloneTheoryCore/SupercloneTheoryCore/bin/Debug/SupercloneTheoryCore.dll
-/Users/test/Projects/SupercloneTheoryCore/SupercloneTheoryCore/bin/Debug/SupercloneTheoryCore.pdb
-/Users/test/Projects/SupercloneTheoryCore/SupercloneTheoryCore/obj/Debug/SupercloneTheoryCore.csproj.CoreCompileInputs.cache
-/Users/test/Projects/SupercloneTheoryCore/SupercloneTheoryCore/obj/Debug/SupercloneTheoryCore.dll
-/Users/test/Projects/SupercloneTheoryCore/SupercloneTheoryCore/obj/Debug/SupercloneTheoryCore.pdb
