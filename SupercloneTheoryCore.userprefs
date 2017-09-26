@@ -1,11 +1,12 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="SupercloneTheoryCore/MultioperationUnary.cs">
+﻿<Properties StartupConfiguration="{D45E83C1-F5B0-49AA-99EF-1BBA573B7366}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SupercloneTheoryCore/Tests/MultioperationTests.cs">
     <Files>
       <File FileName="SupercloneTheoryCore/Multioperation.cs" Line="6" Column="18" />
       <File FileName="SupercloneTheoryCore/Superclone.cs" Line="28" Column="3" />
       <File FileName="SupercloneTheoryCore/AlgebraOfMultioperations.cs" Line="12" Column="28" />
-      <File FileName="SupercloneTheoryCore/AlgebraOfUnaryMultioperations.cs" Line="69" Column="3" />
+      <File FileName="SupercloneTheoryCore/AlgebraOfUnaryMultioperations.cs" Line="14" Column="42" />
       <File FileName="SupercloneTheoryCore/MultioperationUnary.cs" Line="17" Column="3" />
+      <File FileName="SupercloneTheoryCore/Tests/MultioperationTests.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -14,4 +15,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SupercloneTheoryCore PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
